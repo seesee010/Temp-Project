@@ -6,6 +6,7 @@
 	> init
 	> schematics
 	> power
+	> Main Archit
 
 -- TO DO --
 	> mcu
