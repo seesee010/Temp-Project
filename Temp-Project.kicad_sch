@@ -1,0 +1,193 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c936f4ed-9370-4c35-ba8e-26b0afd3f3bd")
+	(paper "A4")
+	(title_block
+		(title "Main Page | Root")
+		(date "2026-02-22")
+		(rev "0.1")
+		(company "seesee010, see Github for more informations")
+		(comment 2 "GPL-2.0 or newer")
+	)
+	(lib_symbols)
+	(sheet
+		(at 99.06 97.79)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.2)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "83b5ba43-ad0f-481c-b93f-0dd69f5fe66c")
+		(property "Sheetname" "Communication"
+			(at 98.806 97.028 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/communication.kicad_sch"
+			(at 99.06 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Temp-Project"
+				(path "/c936f4ed-9370-4c35-ba8e-26b0afd3f3bd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 97.79)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.2)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "ae028433-526e-409a-b9c5-eeb1a517ae0a")
+		(property "Sheetname" "Peripherals"
+			(at 184.15 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/peripherals.kicad_sch"
+			(at 177.038 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Temp-Project"
+				(path "/c936f4ed-9370-4c35-ba8e-26b0afd3f3bd"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 97.79)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.2)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "e447906f-d2a4-4747-8c72-e3115a5d93dc")
+		(property "Sheetname" "Power"
+			(at 127 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/power-regulation.kicad_sch"
+			(at 119.38 108.458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Temp-Project"
+				(path "/c936f4ed-9370-4c35-ba8e-26b0afd3f3bd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 97.79)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.2)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "e51265cb-fd7f-46b4-8ddb-85d20c83d15e")
+		(property "Sheetname" "MCU"
+			(at 157.48 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/mcu.kicad_sch"
+			(at 154.686 108.458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Temp-Project"
+				(path "/c936f4ed-9370-4c35-ba8e-26b0afd3f3bd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
