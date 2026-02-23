@@ -71,7 +71,7 @@
 			(color 255 255 194 1.0000)
 		)
 		(uuid "ae028433-526e-409a-b9c5-eeb1a517ae0a")
-		(property "Sheetname" "Peripherals"
+		(property "Sheetname" "Additional"
 			(at 184.15 97.0784 0)
 			(effects
 				(font

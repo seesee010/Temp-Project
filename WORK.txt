@@ -1,14 +1,22 @@
 # Custom PCB
+This pcb is custom designed, its purpose is to send data 
+via spi to e ink display, (Temp Sensor)
 
 ## WORK
 
-1. 2026-22-2 to 2026.23.2
+1. 2026-02-22 to 2026.23.2:
 	> init
 	> schematics
 	> power
 	> Main Archit
 
+2. 2026-02-23:
+	> schematics (mcu - begin, peripherals, communication)
+	> IMPORTANT: communication needs more information to be completed
+		> There is in fact no display selected by now!
+
 -- TO DO --
 	> mcu
-	> communication (protocols... i2c | spi)
-	> peripherals
+	> communication (protocols...spi - Slave SIDE)
+	> pcb board
+	> gerber file

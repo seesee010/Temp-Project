@@ -748,8 +748,8 @@
 		)
 	)
 	(rectangle
-		(start 25.4 25.4)
-		(end 88.9 55.88)
+		(start 25.4 55.88)
+		(end 88.9 25.4)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -865,6 +865,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 48.26) (xy 60.96 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e3dfa8-7b67-4f79-a5e3-2b2feeb4ff0c")
+	)
+	(wire
+		(pts
 			(xy 43.18 33.02) (xy 58.42 33.02)
 		)
 		(stroke
@@ -872,6 +882,16 @@
 			(type default)
 		)
 		(uuid "6e7f1774-0d5d-4dc8-97f8-18d0bdbdad4a")
+	)
+	(wire
+		(pts
+			(xy 69.85 41.91) (xy 69.85 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79b294fb-9299-423b-a3cf-461a7ec9abfb")
 	)
 	(wire
 		(pts
@@ -905,6 +925,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 40.64) (xy 68.58 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c6667d2-0a6a-4d6c-9f61-9376adfac4a6")
+	)
+	(wire
+		(pts
 			(xy 45.72 48.26) (xy 58.42 48.26)
 		)
 		(stroke
@@ -915,23 +945,13 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 38.1) (xy 69.85 36.83)
+			(xy 69.85 36.83) (xy 69.85 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a055a9f2-329f-412c-bca9-5bf93c67ef2b")
-	)
-	(wire
-		(pts
-			(xy 69.85 40.64) (xy 69.85 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4c4525e-7114-4fef-91b7-fbb49d4fd39a")
 	)
 	(wire
 		(pts
@@ -945,7 +965,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 40.64) (xy 69.85 40.64)
+			(xy 69.85 41.91) (xy 71.12 41.91)
 		)
 		(stroke
 			(width 0)
@@ -972,16 +992,6 @@
 			(type default)
 		)
 		(uuid "e172bdd4-fdb2-4570-830d-84b3ec0a04ef")
-	)
-	(wire
-		(pts
-			(xy 69.85 41.91) (xy 71.12 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f06e72ea-1a96-45f0-b2d1-0176dd89eca2")
 	)
 	(global_label "I2C_scl_slave"
 		(shape output)
@@ -1023,6 +1033,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Gnd"
+		(shape output)
+		(at 60.96 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b01f801e-cb45-4240-b0a0-0b6977683364")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.5132 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -1232,7 +1264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 41.402 36.83 90)
 			(effects
 				(font
@@ -1301,7 +1333,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 39.0652 44.45 0)
 			(effects
 				(font
