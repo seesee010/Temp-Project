@@ -748,8 +748,8 @@
 		)
 	)
 	(rectangle
-		(start 25.4 55.88)
-		(end 88.9 25.4)
+		(start 25.4 25.4)
+		(end 88.9 55.88)
 		(stroke
 			(width 0.2)
 			(type solid)

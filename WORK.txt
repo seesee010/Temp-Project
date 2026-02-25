@@ -21,9 +21,10 @@ via spi to e ink display, (Temp Sensor)
 
 4. 2026-02-25:
 	> mcu
-
+	> programmer pinhead -> Communication
 -- TO DO --
 	> mcu
 	> communication (protocols...spi - Slave SIDE)
 	> pcb board
 	> gerber file
+	> Chips aligned on pcb
