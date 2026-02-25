@@ -15,6 +15,13 @@ via spi to e ink display, (Temp Sensor)
 	> IMPORTANT: communication needs more information to be completed
 		> There is in fact no display selected by now!
 
+3. 2026-02-24:
+	> mcu
+	> something else
+
+4. 2026-02-25:
+	> mcu
+
 -- TO DO --
 	> mcu
 	> communication (protocols...spi - Slave SIDE)
