@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Power Managment")
-		(date "2026-02-22")
+		(date "2026-02-26")
 		(rev "0.1")
 		(company "seesee010, see Github for more informations")
 		(comment 2 "GPL-2.0 or newer")
@@ -1884,7 +1884,7 @@
 			)
 		)
 		(property "Value" "AMS1117-3.3"
-			(at 113.792 40.386 0)
+			(at 87.376 25.908 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2282,7 +2282,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8825a513-4d51-470c-a968-04ce9ea9e1f9")
 		(property "Reference" "J1"
 			(at 40.64 24.13 0)
@@ -2294,7 +2293,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_PowerOnly_6P"
-			(at 40.64 26.67 0)
+			(at 39.37 25.908 0)
 			(effects
 				(font
 					(size 1.27 1.27)
