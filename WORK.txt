@@ -27,6 +27,10 @@ via spi to e ink display, (Temp Sensor)
 	> mcu is now finished (i guess)
 	> some minor fixes
 
+6. 2026-02-28:
+	> mcu
+	> some cleanups
+
 -- TO DO --
 	> communication (protocols...spi - Slave SIDE)
 	> pcb board
