@@ -32,8 +32,14 @@ via spi to e ink display, (Temp Sensor)
 	> some cleanups
 	> power site of pcb -> pcb board
 
+7. 2026-03-01:
+	> spi (now you need to connect pinheads with the actually spi)
+	> PCB board design
+	> mounting holes in schematic and pcb design
+	> Add all labels to pcb board design (0.5, 0.5, 1) - the 1 is invalid so kicad scaled it to the right size, and that looks amazing!
+	> 4 Testpoints in schematics and pcb design
+
 -- TO DO --
-	> communication (protocols...spi - Slave SIDE)
-	> pcb board
 	> gerber file
 	> Chips aligned on pcb (so PCB asmble work)
+	> documentation

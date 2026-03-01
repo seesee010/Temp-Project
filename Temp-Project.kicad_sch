@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Main Page | Root")
-		(date "2026-02-26")
+		(date "2026-03-01")
 		(rev "0.1")
 		(company "seesee010, see Github for more informations")
 		(comment 2 "GPL-2.0 or newer")
