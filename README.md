@@ -1,2 +1,2 @@
 # Custom PCB
-![PCB-Picture](PCB-design-01.png)
+![PCB-Picture](../pic/PCB.png)
