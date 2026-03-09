@@ -1,2 +1,11 @@
 # Custom PCB
-![PCB-Picture](https://github.com/seesee010/Temp-Project/blob/main/pic/PCB.png)
+
+This is my project, fully made with KiCad.
+The purpose is that it will show temp and hum on display (spi).
+
+## Preview
+![PCB-Picture](pic/PCB.png)
+
+2. [PDF-Workflow](./Temp-Project.pdf)
+
+## License
