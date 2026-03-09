@@ -39,7 +39,13 @@ via spi to e ink display, (Temp Sensor)
 	> Add all labels to pcb board design (0.5, 0.5, 1) - the 1 is invalid so kicad scaled it to the right size, and that looks amazing!
 	> 4 Testpoints in schematics and pcb design
 
+8. 2026-03-08:
+	> some pcb fixes
+	> new Rev: clock must be updated
+	> clock is not fully correct yet
+	> some minor changes
+
 -- TO DO --
-	> gerber file
-	> Chips aligned on pcb (so PCB asmble work)
 	> documentation
+	> Coding (...)
+	> CAD
