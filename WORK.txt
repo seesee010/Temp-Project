@@ -45,6 +45,12 @@ via spi to e ink display, (Temp Sensor)
 	> clock is not fully correct yet
 	> some minor changes
 
+9. 2026-03-10 / 11
+	> Minor fixes
+	> .10 Review
+	> Fixes
+	> RX / TX 
+
 -- TO DO --
 	> documentation
 	> Coding (...)
