@@ -6,6 +6,6 @@ The purpose is that it will show temp and hum on display (spi).
 ## Preview
 ![PCB-Picture](pic/PCB.png)
 
-2. [PDF-Workflow](./Temp-Project.pdf)
+2. [PDF-Workflow](./docs/pdf/Temp-Project.pdf)
 
 ## License

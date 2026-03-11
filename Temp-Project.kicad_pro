@@ -643,7 +643,7 @@
       "workbook_filename": "Temp-Project.wbk"
     },
     "page_layout_descr_file": "",
-    "plot_directory": "Plot/",
+    "plot_directory": "docs/pdf/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
