@@ -6,7 +6,7 @@ The purpose is that it will show temp and hum on display (spi).
 ## Preview
 View Website:
 
-<img src="pic/PCB.png" width="500">
+<img src="pic/website-preview.png" width="500">
 [Website](https://seesee010.github.io/Temp-Project/)
 
 View PCB:
