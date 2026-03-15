@@ -11,6 +11,6 @@ View Website: [Website](https://seesee010.github.io/Temp-Project/)
 View PCB:
 ![PCB-Picture](pic/PCB.png)
 
-2. [PDF-Workflow](./docs/pdf/Temp-Project.pdf)
+View PDF: [PDF-Workflow](./docs/pdf/Temp-Project.pdf)
 
 ## License
