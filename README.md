@@ -1,5 +1,8 @@
 # Custom PCB
 
+> [!IMPORTANT]
+> You will only find the kicad here, as everything else is not finished,yet!
+
 This is my project, fully made with KiCad.
 The purpose is that it will show temp and hum on display (spi).
 
